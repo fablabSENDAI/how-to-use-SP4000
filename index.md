@@ -1,8 +1,11 @@
 ---
 layout: default
-title: readme
-nav_exclude: true
+title: 00.Introduction
+nav_order: 1
 ---
+
+# 00.Introduction
+<br><br>
 
 JAGUAR製デジタル刺繍ミシン **SP-4000**の使用マニュアルです。<br>
 FabLab SENDAI - FLATでの使用方法をベースにまとめられた内容なので、<br>
